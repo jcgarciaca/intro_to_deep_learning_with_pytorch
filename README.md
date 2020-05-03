@@ -1,1 +1,1 @@
-# intro_to_deep_learning_with_pytorch
+# Udacity course: Intro to deep learning with pytorch
